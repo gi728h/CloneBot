@@ -29,7 +29,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 <br/><br/>
 
 ## ⚛️ Deploying on Heroku
---> https:/gi728h/github.com//CloneBot_Heroku
+--> https://github.com/gi728h/CloneBot_Heroku
 <br/><br/>
 
 ## 📱 Run the bot on your phone using termux
